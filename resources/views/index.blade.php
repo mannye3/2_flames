@@ -32,7 +32,7 @@ Premium Talent & Event Management
       </div>
       
       <h1 class="text-5xl md:text-7xl lg:text-8xl font-display font-bold mb-8 leading-none">
-        <span class="block">IGNITE THE</span>
+        <span class="block">IGNITE THllllE</span>
         <span class="block bg-gradient-to-r from-flame-orange via-flame-red to-flame-gold bg-clip-text text-transparent">
           STAGE
         </span>
